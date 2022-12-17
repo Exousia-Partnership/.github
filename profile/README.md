@@ -1,3 +1,5 @@
+![The logo of the Exousia Partnership](profile/img/exousia_logo.png)
+
 # Welcome to the Exousia Partnership
 This is a partnership of over (currently) 50 different companies in multiple industries that have come together for there own personal goals and also partership wide goals. The GitHub account is used for partnership wide projects or for use by the Training Command. Please note that the Partnership itself is developing currently and will not be online for a long time. You may notice some repositories.
 
